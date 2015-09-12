@@ -1,4 +1,4 @@
-package com.example.sergbek.pushnotifications;
+package com.example.sergbek.pushnotifications.service;
 
 import com.google.android.gms.iid.InstanceIDListenerService;
 
